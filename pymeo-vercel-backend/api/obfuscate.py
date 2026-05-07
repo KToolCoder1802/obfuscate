@@ -5,7 +5,7 @@ from flask import Flask, request, send_file, jsonify
 
 sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 
-from pymeo_lite import obfuscate
+from pymeo import obfuscate
 
 app = Flask(__name__)
 
