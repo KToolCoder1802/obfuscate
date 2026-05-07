@@ -1,2 +1,0 @@
-# obfuscate
-OBF VIP VCL
